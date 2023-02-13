@@ -214,7 +214,6 @@ I have developed numerous applications both independently and as part of a team.
             <div className="col-lg-12">
               <div className="section-title text-center">
                 <span className="subtitle">
-                  Visit my portfolio and keep your feedback
                 </span>
                 <h2 className="title">My Portfolio</h2>
               </div>
