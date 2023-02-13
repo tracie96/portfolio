@@ -35,7 +35,7 @@ export default function Container() {
 
                     <div>
                       <p className="description">
-                      As a senior software engineer with over 4 years of experience, I have a proven track record in web application development. I have had the opportunity to work on various projects that have allowed me to gain a deep understanding of software development and acquire new skills and perspectives.
+                      As a senior software engineer with over 5 years of experience, I have a proven track record in web application development. I have had the opportunity to work on various projects that have allowed me to gain a deep understanding of software development and acquire new skills and perspectives.
                       <br/>
 
 I have developed numerous applications both independently and as part of a team. I am also proficient in creating enterprise solutions, including ERP, CRM, HRM, Inventory management systems, etc.
@@ -121,11 +121,13 @@ I have developed numerous applications both independently and as part of a team.
                       <a href="#">Front End Development</a>
                     </h4>
                     <p className="description">
-                      I am a Frontend Developer with over 3 years of experience
+                      I am a Frontend Developer with over 4 years of front-end experience
                       and a strong understanding of Responsive Web Design and
                       have demonstrated past work experience working in the
                       frontend development industry.
                     </p>
+                    <p>Languages/Libraries : JavaScript, React, TypeScript,JEST, Redux, HTML/CSS/SCSS</p>
+
                     <a className="read-more-button" href="#">
                       <i className="feather-arrow-right"></i>
                     </a>
@@ -152,13 +154,15 @@ I have developed numerous applications both independently and as part of a team.
                       <a href="#">Back End Development</a>
                     </h4>
                     <p className="description">
-                      I am a dexterious backend Engineer with over 4years
+                      I am a dexterious backend Engineer with over 5years
                       experience creating websites for startups, i am highly
                       skiled in building secured API's,databases,user focused
                       experiences. I have in-depth training in system
                       architecture, software development, frameworks and
                       optimizing applications.
                     </p>
+                    <p>Languages/Libraries : JavaScript, Python, Node Js, Fast API, Express, AWS</p>
+
                     <a className="read-more-button" href="#">
                       <i className="feather-arrow-right"></i>
                     </a>
@@ -183,13 +187,12 @@ I have developed numerous applications both independently and as part of a team.
                   <div className="content">
                     <h4 className="title">
                       <a href="#">
-                        Cross Platform Native Mobile App Development
+                      Mobile App Development
                       </a>
                     </h4>
                     <p className="description">
-                      I throw myself down among the tall grass by the stream as
-                      I lie close to the earth.
-                    </p>
+                    Over 3 years industry experience in the field of crossplatform app development ith react native, i have planned, designed, developed and implemented successful large-scale projects from conception to completion Proficient with Android and ios application development lifecycle from application creation to deployment in Google Play/App Store. </p>
+                    <p>Languages/Libraries : JavaScript, TypeScript, React Native, Expo</p>
                     <a className="read-more-button" href="#">
                       <i className="feather-arrow-right"></i>
                     </a>
@@ -517,7 +520,7 @@ I have developed numerous applications both independently and as part of a team.
                     <div className="row">
                       <div className="col-lg-12 col-md-12 col-12">
                         <div className="content">
-                          <span className="subtitle">2007 - 2010</span>
+                          <span className="subtitle">2017 - Current</span>
                           <h4 className="maintitle">Job Experience</h4>
                           <div className="experience-list">
                             <div className="resume-single-list">
