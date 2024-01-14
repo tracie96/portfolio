@@ -126,7 +126,7 @@ I have developed numerous applications both independently and as part of a team.
                       have demonstrated past work experience working in the
                       frontend development industry.
                     </p>
-                    <p>Languages/Libraries : JavaScript, React, TypeScript,JEST, Redux, HTML/CSS/SCSS</p>
+                    <p>Languages/Libraries : JavaScript, React, TypeScript,JEST, Redux, HTML/CSS/SCSS, Tailwind, AntD </p>
 
                     <a className="read-more-button" href="#">
                       <i className="feather-arrow-right"></i>
@@ -161,7 +161,7 @@ I have developed numerous applications both independently and as part of a team.
                       architecture, software development, frameworks and
                       optimizing applications.
                     </p>
-                    <p>Languages/Libraries : JavaScript, Python, Node Js, Fast API, Express, AWS</p>
+                    <p>Languages/Libraries : JavaScript (Node JS), Python (Django, FastAPI, Flask), Fast API, Express, AWS, PHP</p>
 
                     <a className="read-more-button" href="#">
                       <i className="feather-arrow-right"></i>

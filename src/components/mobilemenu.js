@@ -13,7 +13,6 @@ export default function Mobilemenu() {
                         <button className="close-menu-activation close"><i data-feather="x"></i></button>
                     </div>
                 </div>
-                <p className="discription">Inbio is a personal portfolio template. You can customize all.</p>
             </div>
             <div className="content">
                 <ul className="primary-menu nav nav-pills">
