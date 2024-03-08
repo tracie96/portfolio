@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function Header() {
 
@@ -23,10 +24,9 @@ export default function Header() {
                     <nav id="sideNav" className="mainmenu-nav navbar-example2 d-none d-xl-block">
                         <ul className="primary-menu nav nav-pills">
                             <li className="nav-item"><a className="nav-link smoth-animation active" href="#home">Home</a></li>
-                            <li className="nav-item"><a className="nav-link smoth-animation" href="#features">Features</a></li>
+                            <li className="nav-item"><a className="nav-link smoth-animation" href="#features">About Me</a></li>
                             <li className="nav-item"><a className="nav-link smoth-animation" href="#portfolio">Portfolio</a></li>
-                            <li className="nav-item"><a className="nav-link smoth-animation" href="#resume">Resume</a></li>
-                            <li className="nav-item"><a className="nav-link smoth-animation" href="#blog">blog</a></li>
+                            <li className="nav-item"><a className="nav-link" href="https://drive.google.com/file/d/1DMIE5Xw3FkbxCF2eB21DzQYoqEgBI9Fs/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume</a></li>
                             <li className="nav-item"><a className="nav-link smoth-animation" href="#contacts">Contact</a></li>
                         </ul>
                     </nav>

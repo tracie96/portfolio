@@ -98,7 +98,7 @@ I have developed numerous applications both independently and as part of a team.
                 data-aos-delay="100"
                 data-aos-once="true"
               >
-                <span className="subtitle">Features</span>
+                <span className="subtitle">About Me</span>
                 <h2 className="title">What I Do</h2>
               </div>
             </div>
